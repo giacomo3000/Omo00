@@ -10,24 +10,22 @@ require (
 	github.com/ethereum/go-ethereum v1.10.1
 	github.com/gammazero/workerpool v1.1.2
 	github.com/go-ole/go-ole v1.2.5 // indirect
-	github.com/google/go-cmp v0.5.4 // indirect
 	github.com/gorilla/websocket v1.4.2
 	github.com/itzmeanjan/pub0sub v0.2.1
 	github.com/itzmeanjan/pubsub v0.1.7 // indirect
 	github.com/labstack/echo/v4 v4.2.0
-	github.com/libp2p/go-libp2p v0.13.0
-	github.com/libp2p/go-libp2p-connmgr v0.2.4
-	github.com/libp2p/go-libp2p-core v0.8.0
+	github.com/libp2p/go-libp2p v0.18.0
+	github.com/libp2p/go-libp2p-connmgr v0.4.0
+	github.com/libp2p/go-libp2p-core v0.14.0
 	github.com/libp2p/go-libp2p-discovery v0.5.0
 	github.com/libp2p/go-libp2p-kad-dht v0.11.1
-	github.com/libp2p/go-libp2p-noise v0.1.1
-	github.com/libp2p/go-libp2p-tls v0.1.3
+	github.com/libp2p/go-libp2p-noise v0.3.0
+	github.com/libp2p/go-libp2p-tls v0.3.1
+	github.com/libp2p/go-yamux/v2 v2.0.0 // indirect
 	github.com/magiconair/properties v1.8.4 // indirect
 	github.com/mitchellh/mapstructure v1.4.1 // indirect
-	github.com/multiformats/go-multiaddr v0.3.1
+	github.com/multiformats/go-multiaddr v0.5.0
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
-	github.com/onsi/ginkgo v1.15.0 // indirect
-	github.com/onsi/gomega v1.10.5 // indirect
 	github.com/pelletier/go-toml v1.8.1 // indirect
 	github.com/shirou/gopsutil v3.21.2+incompatible // indirect
 	github.com/spf13/afero v1.5.1 // indirect
@@ -37,9 +35,6 @@ require (
 	github.com/tklauser/go-sysconf v0.3.4 // indirect
 	github.com/vektah/gqlparser/v2 v2.1.0
 	github.com/vmihailenco/msgpack/v5 v5.2.0
-	golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83 // indirect
-	golang.org/x/net v0.0.0-20201209123823-ac852fbbde11 // indirect
-	golang.org/x/text v0.3.5 // indirect
 	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
