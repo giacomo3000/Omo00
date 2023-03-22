@@ -13,13 +13,21 @@ require (
 	github.com/itzmeanjan/pub0sub v0.2.3
 	github.com/itzmeanjan/pubsub v0.1.7 // indirect
 	github.com/labstack/echo/v4 v4.2.1
-	github.com/libp2p/go-libp2p v0.13.0
+	github.com/libp2p/go-conn-security v0.1.0 // indirect
+	github.com/libp2p/go-libp2p v6.0.23+incompatible
 	github.com/libp2p/go-libp2p-connmgr v0.2.4
 	github.com/libp2p/go-libp2p-core v0.8.0
 	github.com/libp2p/go-libp2p-discovery v0.5.0
+	github.com/libp2p/go-libp2p-host v0.1.0 // indirect
+	github.com/libp2p/go-libp2p-interface-connmgr v0.1.0 // indirect
+	github.com/libp2p/go-libp2p-interface-pnet v0.1.0 // indirect
 	github.com/libp2p/go-libp2p-kad-dht v0.11.1
+	github.com/libp2p/go-libp2p-metrics v0.1.0 // indirect
+	github.com/libp2p/go-libp2p-net v0.1.0 // indirect
 	github.com/libp2p/go-libp2p-noise v0.1.1
+	github.com/libp2p/go-libp2p-protocol v0.1.0 // indirect
 	github.com/libp2p/go-libp2p-tls v0.1.3
+	github.com/libp2p/go-libp2p-transport v0.1.0 // indirect
 	github.com/magiconair/properties v1.8.4 // indirect
 	github.com/mitchellh/mapstructure v1.4.1 // indirect
 	github.com/multiformats/go-multiaddr v0.3.1
@@ -33,6 +41,10 @@ require (
 	github.com/spf13/viper v1.7.1
 	github.com/vektah/gqlparser/v2 v2.1.0
 	github.com/vmihailenco/msgpack/v5 v5.2.0
+	github.com/whyrusleeping/go-smux-multiplex v3.0.16+incompatible // indirect
+	github.com/whyrusleeping/go-smux-multistream v2.0.2+incompatible // indirect
+	github.com/whyrusleeping/go-smux-yamux v2.0.9+incompatible // indirect
+	github.com/whyrusleeping/yamux v1.2.0 // indirect
 	gopkg.in/ini.v1 v1.62.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
