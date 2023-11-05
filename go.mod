@@ -9,7 +9,7 @@ require (
 	github.com/ethereum/go-ethereum v1.10.26
 	github.com/gammazero/workerpool v1.1.3
 	github.com/go-ole/go-ole v1.2.5 // indirect
-	github.com/gorilla/websocket v1.4.2
+	github.com/gorilla/websocket v1.5.1
 	github.com/itzmeanjan/pub0sub v0.2.3
 	github.com/itzmeanjan/pubsub v0.1.7 // indirect
 	github.com/labstack/echo/v4 v4.9.0
