@@ -28,7 +28,7 @@ require (
 	github.com/spf13/afero v1.5.1 // indirect
 	github.com/spf13/cast v1.3.1 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
-	github.com/spf13/viper v1.7.1
+	github.com/spf13/viper v1.18.2
 	github.com/vektah/gqlparser/v2 v2.1.0
 	github.com/vmihailenco/msgpack/v5 v5.2.0
 	gopkg.in/ini.v1 v1.62.0 // indirect
