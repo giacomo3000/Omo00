@@ -12,7 +12,7 @@ require (
 	github.com/gorilla/websocket v1.4.2
 	github.com/itzmeanjan/pub0sub v0.2.3
 	github.com/itzmeanjan/pubsub v0.1.7 // indirect
-	github.com/labstack/echo/v4 v4.9.0
+	github.com/labstack/echo/v4 v4.11.4
 	github.com/libp2p/go-libp2p v0.13.0
 	github.com/libp2p/go-libp2p-connmgr v0.2.4
 	github.com/libp2p/go-libp2p-core v0.8.0
