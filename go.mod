@@ -4,11 +4,9 @@ go 1.16
 
 require (
 	github.com/99designs/gqlgen v0.13.0
-	github.com/StackExchange/wmi v0.0.0-20210224194228-fe8f1750fd46 // indirect
 	github.com/agnivade/levenshtein v1.1.0 // indirect
-	github.com/ethereum/go-ethereum v1.10.26
+	github.com/ethereum/go-ethereum v1.13.15
 	github.com/gammazero/workerpool v1.1.3
-	github.com/go-ole/go-ole v1.2.5 // indirect
 	github.com/gorilla/websocket v1.4.2
 	github.com/itzmeanjan/pub0sub v0.2.3
 	github.com/itzmeanjan/pubsub v0.1.7 // indirect
